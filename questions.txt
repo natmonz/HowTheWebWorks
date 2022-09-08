@@ -1,0 +1,31 @@
+1. What is HTTP?
+    -HTTP is short for Hyper Text Transfer Protocol. This helps transfer data from and to a server.
+
+2. What is an URL?
+    -URL is short for Uniform Resource Locator which is an address for an internet resource.
+
+3. What is DNS?
+    -DNS is short for Domain Name System that takes readable URLs and converts to IP Adresses.
+
+4. What is a query string?
+    -It allows you to pass key-value pairs into a URL.
+
+5. List two HTTP Verbs:
+    -GET: Get data from the server.
+    -POST: Send data to the server.
+
+6. What is a HTTP request?
+    -It is a request from the client to server in protocol.
+
+7. What about a HTTP response?
+    -It is a response from the server to client.
+
+8. What is a HTTP header?
+    -A HTTP header gives more information about the action, a request or a response. 
+
+9. What happens when you type “http://somesite.com/some/page.html” (a URL) into a browser?
+    -The URL is turned into an IP address with the help of DNS.
+    -Browser makes a HTTP request with the IP.
+    -The server has a HTTP response with a status code of 200 (200s mean success).
+    -A DOM is created
+    -The browser makes seperate requests and receives the response from the servers which each request.
